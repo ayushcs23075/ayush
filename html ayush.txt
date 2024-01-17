@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> tell me about yourself</title>
+<body>
+<p> my name is ayush parmar .</p>
+<p> i am pursuing b.tech.</p>
+</body>
+</head>
+</html>                      
